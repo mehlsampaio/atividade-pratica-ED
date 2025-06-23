@@ -1,0 +1,18 @@
+# Cache e arquivos compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+venv/
+env/
+
+# IDEs e editor
+*.vscode/
+*.idea/
+*.swp
+*~
+
+# Arquivos temporários
+*.log
+*.bak
